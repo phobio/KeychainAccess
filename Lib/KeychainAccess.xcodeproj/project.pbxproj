@@ -405,6 +405,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 148E44EB1BF9EEB3004FFEC1 /* KeychainAccess.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 148E44EB1BF9EEB3004FFEC1 /* KeychainAccess.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
